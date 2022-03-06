@@ -6,7 +6,7 @@ val jeevan = developer {
         company = DevRev
     }
     links {
-        twitter = "@jeevansurendran"
+        portfolio = "https://jeevansurendran.com"
     }
 }
 ```
